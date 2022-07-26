@@ -11,3 +11,15 @@
 
 
 
+![게시물수정및삭제](https://user-images.githubusercontent.com/96513191/181027970-4d0874d9-ad93-4d90-9824-90f6ef3eb7fa.PNG width="300" height="300")
+
+![댓글등록](https://user-images.githubusercontent.com/96513191/181028065-a9a7f64c-46c6-461e-b184-0e8e82ca2fa7.PNG width="300" height="300")
+
+![댓글수정](https://user-images.githubusercontent.com/96513191/181028143-53164714-d511-4c06-8832-1d2aa744f748.PNG width="300" height="300")
+
+
+![댓글조회](https://user-images.githubusercontent.com/96513191/181028194-8ba4ff50-7f45-4ddb-9bfc-482681201acd.PNG width="300" height="300")
+
+![등록](https://user-images.githubusercontent.com/96513191/181028223-26863256-21b0-4a67-8219-b3028466fa5a.PNG width="300" height="300")
+![조회](https://user-images.githubusercontent.com/96513191/181028239-2953b6b0-2d20-49ed-be5e-5373b189bb30.PNG width="300" height="300")
+
